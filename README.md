@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Devoloper;This+is+an+example+of+a+typing+effect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&width=435&height=40&lines=Hello%2C+I+am+Med+Achraaf!;Full+Stack+Developer;Mobile+Apps+Developer)](https://git.io/typing-svg)
