@@ -35,7 +35,7 @@
 <!--DataBases-->
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="MySql" src="https://img.shields.io/badge/Sql-%23039BE5.svg?style=for-the-badge&logo=Mysql"/>
+  <img alt="MySql" src="https://img.shields.io/badge/Mysql-%23039BE5.svg?style=for-the-badge&logo=Mysql"/>
 </p>
 
 ## My Stats
