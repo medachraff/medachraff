@@ -11,7 +11,7 @@
 <p align="center">
 
 <!--Programming languages-->
-  <img alt="C++" src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=c++&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-306998.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -23,7 +23,7 @@
 <p align="center">
 <!--Frameworks and Libraries-->
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="React Native" src="[https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
