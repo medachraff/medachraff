@@ -2,7 +2,7 @@
 
 ## I'm Mohamed Achraf.
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&verticalcenter=true&width=435&height=40&lines=;Mobile+Apps+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF72E&background=000000FD&center=true&vCenter=true&width=435&height=35&lines=Mobile+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 
