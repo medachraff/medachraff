@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">from </h3>
-<h3 color="c1121f">Tunisia</h3>
+<h3 align="center" color="red">Tunisia</h3>
 
 ## 💻 My Skills
 
