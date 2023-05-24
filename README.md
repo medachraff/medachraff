@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ECF72E&background=000000FD&center=true&vCenter=true&width=435&height=35&lines=Mobile+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
+
 <h3 align="center">from Tunisia</h3>
 
 ## 💻 My Skills
