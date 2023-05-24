@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=023E8A&center=true&vCenter=true&width=435&lines=Full+Stack+Devoloper;Mobile+Developer" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">from </h3>
-<h3  align="center" style="color:red;">Tunisia</h3>
+<h3 align="center">from Tunisia</h3>
+<h3  align="center" style="color:red;"></h3>
 
 ## 💻 My Skills
 
