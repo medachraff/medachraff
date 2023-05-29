@@ -12,8 +12,12 @@
 ## 💻 My Skills
 
 <p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,unity,vim,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,solidity	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,azure,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,prae,)](https://skillicons.dev)
 </p>
 
 ## My Stats
