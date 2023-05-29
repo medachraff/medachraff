@@ -48,7 +48,7 @@
 ## My Stats
 <p align="center">
   <a href="https://github.com/medachraff" >
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medachraff&show_icons=true&locale=en" alt="medachraff" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=medachraff&show_icons=true&locale=en" alt="medachraff" /></p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medachraff&layout=compact&langs_count=8&theme=transparent"/>
   </a>
 </p>
