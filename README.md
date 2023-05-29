@@ -47,12 +47,13 @@
 
 ## My Stats
 <p align="center">
-  <a href="https://github.com/medachraff" >
+  <a href="https://github.com/medachraff" ></a>
+  <div align="center">
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=medachraff&show_icons=true&locale=en" alt="medachraff" /></p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medachraff&layout=compact&langs_count=8&theme=transparent"/>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medachraff&" alt="medachraff" /></p>
-
-  </a>
+  </div>
+  
 </p>
 
 
