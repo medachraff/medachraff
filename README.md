@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## My Stats
+## 📊 My Stats
 <p align="center">
   <a href="https://github.com/medachraff" ></a>
   <div align="center">
