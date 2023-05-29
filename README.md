@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,vim,neovim" /></br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,blender,unity" /></br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,xd,figma" /></br>
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,solidity" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron," /></br>
