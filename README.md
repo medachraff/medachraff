@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,solidity" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron," /></br>
     <img src="https://skillicons.dev/icons?i=firebase,azure,mongodb,mysql" /></br>
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae," />
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae" />
   </a>
 </p>
 
