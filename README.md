@@ -13,7 +13,12 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=figma,xdm" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron," />
+    <img src="https://skillicons.dev/icons?i=firebase,azure,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae," />
   </a>
 </p>
 
