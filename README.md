@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,vim,neovim" /></br>
-    <img src="https://skillicons.dev/icons?i=figma,xdm" /></br>
+    <img src="https://skillicons.dev/icons?i=figma,xd" /></br>
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,solidity" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron," /></br>
     <img src="https://skillicons.dev/icons?i=firebase,azure,mongodb,mysql" /></br>
