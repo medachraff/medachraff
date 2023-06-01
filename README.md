@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim" /></br>
     <img src="https://skillicons.dev/icons?i=blender,unity" /></br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,xd,figma" /></br>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,solidity" /></br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,solidity" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,nextjs,redux,tailwind,nodejs,express,electron," /></br>
     <img src="https://skillicons.dev/icons?i=firebase,azure,mongodb,mysql" /></br>
   </a>
