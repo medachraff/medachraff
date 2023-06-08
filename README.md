@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Achraf</h1>
 
 
-<script>var yyyy = today.getFullYear();</script>
-<h3>{yyyy}</h3>
+<script>var yyyy = today.getF
 <h3 align="center">A passionate </h3>
 
 <p align="center">
